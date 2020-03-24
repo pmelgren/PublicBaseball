@@ -4,3 +4,6 @@
 [submodule "baseballdatabase"]
 	path = baseballdatabase
 	url = https://github.com/pmelgren/baseballdatabase.git
+[submodule "PitchTypeClassification"]
+	path = PitchTypeClassification
+	url = https://github.com/pmelgren/PitchTypeClassification.git
