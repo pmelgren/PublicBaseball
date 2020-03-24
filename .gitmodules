@@ -1,3 +1,6 @@
 [submodule "RStatcastUtils"]
 	path = RStatcastUtils
 	url = https://github.com/pmelgren/RStatcastUtils.git
+[submodule "baseballdatabase"]
+	path = baseballdatabase
+	url = https://github.com/pmelgren/baseballdatabase.git
