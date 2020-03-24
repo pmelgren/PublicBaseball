@@ -1,0 +1,3 @@
+[submodule "RStatcastUtils"]
+	path = RStatcastUtils
+	url = https://github.com/pmelgren/RStatcastUtils.git
